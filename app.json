@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Solace AI",
+    "slug": "solace-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F6F4EF"
+    }
+  }
+}
